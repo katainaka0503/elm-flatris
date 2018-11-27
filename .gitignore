@@ -1,6 +1,4 @@
-elm-stuff
-.DS_Store
-elm.js
-node_modules
-package.json
-elm-package.json
+dist/
+node_modules/
+elm-stuff/
+tests/elm-stuff/
